@@ -9,3 +9,6 @@ Se estudian tres algoritmos de búsqueda (lineal, binaria y Jump Search) y tres 
 
 En el caso práctico, se desarrollará e implementará un algoritmo de búsqueda y uno de ordenamiento de forma concreta, para analizar su rendimiento en un contexto simulado.
 
+LINK AL VIDEO DE YOUTUBE
+
+https://youtu.be/piHgT4FP7JI
